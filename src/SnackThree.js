@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 function SnackThree(){
   return(
     <div>Snack Three!
-      <Link exact to="/">I want to go back</Link>
+      <Link to="/">I want to go back</Link>
     </div>
   )
 }
